@@ -1,4 +1,5 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Linkedin
+Tarefa de desafio phishing, devido a mudanças na estrutura do Facebook, realizei a atividade tendo como alvo o site do Linkedin.
 
 ### Ferramentas
 
@@ -14,7 +15,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.linkedin.com/login/pt?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin
 
 ### Resutados
 
